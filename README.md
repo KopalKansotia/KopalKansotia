@@ -1,6 +1,7 @@
-## Hi there 👋
-## My name is Kopal Kansotia. I welcome you to my GitHub profile 🤖
+## Hey 👋
 
+## My name is Kopal Kansotia. I welcome you to my GitHub profile 🤖
+##
 ## - I'm a Computer Science Student 🖥️✨
 ## - I'm currently learning Java 🌱
 
