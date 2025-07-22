@@ -3,7 +3,7 @@
 ## My name is Kopal Kansotia. I welcome you to my GitHub profile 🤖
 ##
 ## - I'm a Computer Science Student 🖥️✨
-## - I'm currently learning Java 🌱
+## - I'm currently learning Java and more 🌱
 
 <!--
 **KopalKansotia/KopalKansotia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
